@@ -13,7 +13,7 @@ from portfolio_management.utils.helpers import (
 )
 
 def main():
-    st.title('Portfolio Management with Monte Carlo Simulation')
+    st.title('EmzyCash Portfolio Management')
 
     st.write("""
     Welcome to the Portfolio Management application. Input your selected assets below and run a Monte Carlo simulation to forecast potential portfolio performance.
