@@ -17,8 +17,8 @@ def main():
     st.title('EmzyCash Portfolio Management')
 
     st.write("""
+    ### [Home](https://emzycash.streamlitapp.com "Click to return home")
     Welcome to the Portfolio Management application. Input your selected assets below and run a Monte Carlo simulation to forecast potential portfolio performance.
-    [Home](https://emzycash.streamlitapp.com "Click to return home")
     """)
 
     # Load list of tickers for autocomplete suggestions
