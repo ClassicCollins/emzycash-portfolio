@@ -1,6 +1,5 @@
 # emzycash-portfolio
-Monte Carlo Portfolio Management
-# Portfolio Management with Monte Carlo Simulation
+## Portfolio Management with Monte Carlo Simulation
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -244,7 +243,7 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 - **Email**: [ugwuozorcollinsemezie@gmail.com](mailto:ugwuozorcollinsemezie@gmail.com)
 - **GitHub**: [ClassicCollins](https://github.com/ClassicCollins/)
 - **LinkedIn**: [collins-ugwuozor](https://www.linkedin.com/in/collins-ugwuozor/)
-- **Twitter**: [@twitter_handle](https://x.com/ClassicCollins2)
+- **Twitter**: [@ClassicCollins2](https://x.com/ClassicCollins2)
 - **Project Link**: [emzycash](https://www.datascienceportfol.io/collinsugwuozor/projects/1)
 
 Feel free to reach out for any inquiries or collaboration opportunities.
