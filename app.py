@@ -11,13 +11,14 @@ from portfolio_management.utils.helpers import (
     get_simulation_insights,
     display_optimal_weights
 )
-[Home](https://emzycash.streamlitapp.com "Click to return home")
+
 def main():
     
     st.title('EmzyCash Portfolio Management')
 
     st.write("""
     Welcome to the Portfolio Management application. Input your selected assets below and run a Monte Carlo simulation to forecast potential portfolio performance.
+    [Home](https://emzycash.streamlitapp.com "Click to return home")
     """)
 
     # Load list of tickers for autocomplete suggestions
