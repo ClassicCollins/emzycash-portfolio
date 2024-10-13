@@ -23,6 +23,7 @@
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
+  - [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -247,6 +248,15 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 - **Project Link**: [emzycash](https://www.datascienceportfol.io/collinsugwuozor/projects/1)
 
 Feel free to reach out for any inquiries or collaboration opportunities.
+
+---
+## Acknowledgments
+
+* [Python](https://www.python.org)
+* [MIT License](https://opensource.org/license/mit)
+* [Yahoo_Finance](https://finance.yahoo.com)
+* [Streamlit](https://share.streamlit.io)
+* [cristian-leo](https://www.linkedin.com/in/cristian-leo/)
 
 ---
 
